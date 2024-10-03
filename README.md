@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**NatsuLis/NatsuLis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently prepearing to pass exams on https://stepik.org/course/171826/syllabus
 - 🌱 I’m currently learning to create test-cases and test suites,create bug-reports with JIRA.
