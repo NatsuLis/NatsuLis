@@ -31,10 +31,7 @@ About
 ## Contact me: 
 
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/NatsuLis)
-
-
-
-![Instagram]
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
 
 
 
