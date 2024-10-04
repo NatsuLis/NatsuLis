@@ -32,10 +32,11 @@ About
 
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/NatsuLis)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
-
+<div>
 <a href="mailto:fraight11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail"; alt="Email">
 </a>
+<div>
 
 
 
