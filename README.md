@@ -30,9 +30,9 @@ About
 
 ## Contact me: 
 
-[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/NatsuLis)
-[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
-[![Facebook](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100010623646512)
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram?)](https://t.me/NatsuLis)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100010623646512)
 
 <a href="mailto:fraight11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail"; alt="Email">
