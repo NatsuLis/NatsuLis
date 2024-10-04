@@ -7,12 +7,12 @@ About
 
 
 ## Tools:
-![Fiddler](https://img.shields.io/badge/Fiddler-Classic-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Fiddler&logocolor)
+![Fiddler](https://img.shields.io/badge/Fiddler-Classic-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Fiddler?)
 ![Fiddler](https://img.shields.io/badge/Fiddler-Everywhere-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Fiddler&logocolor)
 
 ![MySQL](https://img.shields.io/badge/MySQL-95C164?https://img.shields.io/badge/with%20a%20logo-black?style=for-the-badge&logo=MySQL&logoColor=black)
 
-![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-B2D5F0?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=VisualStudioCode&logocolor?)
+![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-B2D5F0?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=VisualStudioCode?)
 
 ![SoapUI](https://img.shields.io/badge/SoapUI-2B2B2B?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=SoapUI&logocolor=black)
 ![Postman](https://img.shields.io/badge/Postman-2B2B2B?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Postman&logocolor=black)
@@ -33,4 +33,6 @@ About
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/NatsuLis)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100010623646512)
+
+
 
