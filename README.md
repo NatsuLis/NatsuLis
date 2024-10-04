@@ -13,8 +13,8 @@ About
 ![MySQL](https://img.shields.io/badge/MySQL-95C164?https://img.shields.io/badge/with%20a%20logo-black?style=for-the-badge&logo=MySQL&logoColor=black)
 
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-B2D5F0?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=VisualStudioCode&logocolor?)
-![SoapUI](https://img.shields.io/badge/SoapUI-DACA45?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=SoapUI&logocolor=black)
 
+![SoapUI](https://img.shields.io/badge/SoapUI-2B2B2B?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=SoapUI&logocolor=black)
 ![Postman](https://img.shields.io/badge/Postman-2B2B2B?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Postman&logocolor=black)
 ![Charles](https://img.shields.io/badge/Charles-2B2B2B?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Charles&logocolor)
 
