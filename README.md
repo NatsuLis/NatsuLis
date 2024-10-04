@@ -32,15 +32,8 @@ About
 
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/NatsuLis)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
-<div>
+[![Facebook](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100010623646512)
+
 <a href="mailto:fraight11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail"; alt="Email">
 </a>
-<div>
-
-
-
-
-
-
-![Facebook]
