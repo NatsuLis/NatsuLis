@@ -33,4 +33,4 @@ About
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/NatsuLis)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100010623646512)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](mailto:mail.google.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](mailto:fraight11@gmail.com)
