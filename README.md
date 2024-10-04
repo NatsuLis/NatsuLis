@@ -28,16 +28,14 @@ About
 ![Jira](https://img.shields.io/badge/JIRA-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=JIRA&logocolor)
 
 
+## Contact me: 
+
+[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/NatsuLis)
 
 
 
+![Instagram]
 
 
 
-
-
-
-
-
-
-Links
+![Facebook]
