@@ -34,6 +34,6 @@ About
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dmitrii_surtaev/)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100010623646512)
 
-<a href="mailto:fraight11@gmail.com">
+<a href="mailto:fraight11@gmail.com?subject=Тема%20письма&body=Текст%20сообщения">
     <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail"; alt="Email">
 </a>
