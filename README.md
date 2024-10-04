@@ -7,7 +7,6 @@ About
 
 
 ## Tools:
-![Flutter](https://img.shields.io/badge/Flutter-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Flutter&logocolor) 
 ![Fiddler](https://img.shields.io/badge/Fiddler-Classic-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Fiddler&logocolor)
 ![Fiddler](https://img.shields.io/badge/Fiddler-Everywhere-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Fiddler&logocolor)
 ![MySQL](https://img.shields.io/badge/MySQL-462A50?https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=MySQL&logocolor)
