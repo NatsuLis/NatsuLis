@@ -1,4 +1,4 @@
-![Header](https://github.com/NatsuLis/NatsuLis/blob/main/assets/header.png)] (https://github.com/NatsuLis/NatsuLis/blob/main/assets/header.png)
+![Header](https://github.com/NatsuLis/NatsuLis/blob/main/assets/header.png)(https://github.com/NatsuLis/NatsuLis/blob/main/assets/header.png)
 
 about
 
