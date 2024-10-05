@@ -29,7 +29,7 @@ About
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xowEexmMDRaVL7JXuc1IUkH4mQgy_CWy65UDqtvY3FKTJ5JyqyPDeJEYZYt1cc3CBqY&usqp=CAU" title="Genymotion" alt="Genymotion" width="40" height="40">
+   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/genymotion_103910.png" title="Genymotion" alt="Genymotion" width="40" height="40">
 </div>
 
 
