@@ -8,7 +8,7 @@ About me:
 
 
 ### 🎓 Certificates:
-<img src="https://ibb.co/y0vyNcm" title="Certificates" alt="Certificates" width="40" height="40"/>&nbsp
+<img src="C:\For git\NatsuLis\staple.png" title="Certificates" alt="Certificates" width="40" height="40"/>&nbsp
 
 
 
