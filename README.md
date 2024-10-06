@@ -8,7 +8,8 @@ About me:
 
 
 ### 🎓 Certificates:
-<img src="C:\For git\NatsuLis\staple.png" title="Certificates" alt="Certificates" width="40" height="40"/>&nbsp
+<img src="https://cdn-icons-png.flaticon.com/128/539/539599.png" title="Certificates" alt="Certificates" width="15" height="15"/>
+<a href="https://stepik.org/cert/2598734?auth=login&lang=en"; target="_blank">Stepik #1</a>&nbsp
 
 
 
