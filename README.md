@@ -10,7 +10,7 @@ About me:
 ### 🎓 Certificates:
 <div>
 <img src="https://cdn-icons-png.flaticon.com/128/539/539599.png" title="Certificates" alt="Certificates" width="15" height="15"/>
-     <a href="https://stepik.org/cert/2598734?lang=en"; target="_blank">"Stepik Тестирование ПО с нуля. Теория + Практика"</a>
+     <a href="https://drive.google.com/file/d/1okH_ArGqiogTVlxuYU1s8sEO_oe334Rc/view?usp=sharing"; target="_blank">"Stepik Тестирование ПО с нуля. Теория + Практика"</a>
 <div>
 
 
